@@ -1,0 +1,44 @@
+.heading
+{
+    font-size: 30px;
+    width: 90%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(0, 59, 253);
+    background: rgb(255,40,40);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,153,0,1) 25%, rgba(203,201,7,1) 37%, rgba(10,255,0,1) 50%, rgba(3,218,111,1) 63%, rgba(0,164,255,1) 75%, rgba(0,5,255,1) 100%);
+border-radius:20px;
+margin-top: 15px;
+border-width: 5px;
+border-style:double;
+font-family:cursive;
+font-weight: 600;
+text-decoration:underline;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.copy_right_footer
+{
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background: rgb(235,0,255);
+background: linear-gradient(90deg, rgba(235,0,255,1) 0%, rgba(93,122,230,1) 50%, rgba(0,255,166,1) 100%);
+}
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border: solid white 5px;
+}
+body
+{
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,183,0,1) 24%, rgba(230,223,0,1) 37%, rgba(78,255,0,1) 50%, rgba(0,237,255,1) 63%, rgba(78,185,240,1) 76%, rgba(239,0,255,1) 100%);
+font-family: cursive;
+}
